@@ -1,0 +1,226 @@
+solid convex_hull_polyhedron_2025-05-25_23-00-36.stl
+facet normal 3.495577 -6.438324 -3.244845
+  outer loop
+    vertex 9.728598 4.343874 1.360519
+    vertex 9.121677 0.746504 7.844497
+    vertex 8.689938 3.533882 1.848763
+  endloop
+endfacet
+facet normal 0.584569 5.596424 16.191572
+  outer loop
+    vertex 6.573400 9.603375 7.111747
+    vertex 3.746889 9.627422 7.205482
+    vertex 8.098488 3.861933 9.041147
+  endloop
+endfacet
+facet normal -21.172750 -37.085335 -12.373489
+  outer loop
+    vertex 9.121677 0.746504 7.844497
+    vertex 0.147992 6.570023 5.745693
+    vertex 2.756640 6.255991 2.223139
+  endloop
+endfacet
+facet normal -7.996296 -11.750401 -4.874170
+  outer loop
+    vertex 0.147992 6.570023 5.745693
+    vertex 0.994363 8.336601 0.098405
+    vertex 2.756640 6.255991 2.223139
+  endloop
+endfacet
+facet normal -12.453550 -25.832157 -11.112453
+  outer loop
+    vertex 8.689938 3.533882 1.848763
+    vertex 9.121677 0.746504 7.844497
+    vertex 4.275799 6.293466 0.380652
+  endloop
+endfacet
+facet normal -9.940493 -20.267233 -8.608318
+  outer loop
+    vertex 9.121677 0.746504 7.844497
+    vertex 2.756640 6.255991 2.223139
+    vertex 4.275799 6.293466 0.380652
+  endloop
+endfacet
+facet normal -3.753872 -6.474781 -3.226820
+  outer loop
+    vertex 2.756640 6.255991 2.223139
+    vertex 0.994363 8.336601 0.098405
+    vertex 4.275799 6.293466 0.380652
+  endloop
+endfacet
+facet normal -0.158192 -3.680044 -6.441686
+  outer loop
+    vertex 9.728598 4.343874 1.360519
+    vertex 8.689938 3.533882 1.848763
+    vertex 4.275799 6.293466 0.380652
+  endloop
+endfacet
+facet normal -11.436212 20.467819 0.711710
+  outer loop
+    vertex 3.746889 9.627422 7.205482
+    vertex 0.994363 8.336601 0.098405
+    vertex 0.962839 8.063251 7.453022
+  endloop
+endfacet
+facet normal -11.448824 6.046713 0.175665
+  outer loop
+    vertex 0.994363 8.336601 0.098405
+    vertex 0.147992 6.570023 5.745693
+    vertex 0.962839 8.063251 7.453022
+  endloop
+endfacet
+facet normal 17.559050 -0.671414 1.271075
+  outer loop
+    vertex 9.121677 0.746504 7.844497
+    vertex 9.728598 4.343874 1.360519
+    vertex 9.292840 3.855330 7.122160
+  endloop
+endfacet
+facet normal 11.030494 5.231009 6.847235
+  outer loop
+    vertex 6.573400 9.603375 7.111747
+    vertex 8.098488 3.861933 9.041147
+    vertex 9.292840 3.855330 7.122160
+  endloop
+endfacet
+facet normal 5.970568 0.534266 3.714164
+  outer loop
+    vertex 8.098488 3.861933 9.041147
+    vertex 9.121677 0.746504 7.844497
+    vertex 9.292840 3.855330 7.122160
+  endloop
+endfacet
+facet normal -8.520801 34.175186 -2.907008
+  outer loop
+    vertex 0.994363 8.336601 0.098405
+    vertex 3.746889 9.627422 7.205482
+    vertex 5.914464 9.587802 0.386266
+  endloop
+endfacet
+facet normal 0.160267 19.071404 -0.059864
+  outer loop
+    vertex 3.746889 9.627422 7.205482
+    vertex 6.573400 9.603375 7.111747
+    vertex 5.914464 9.587802 0.386266
+  endloop
+endfacet
+facet normal 0.743049 9.761152 -0.095404
+  outer loop
+    vertex 6.573400 9.603375 7.111747
+    vertex 7.391033 9.477915 0.643477
+    vertex 5.914464 9.587802 0.386266
+  endloop
+endfacet
+facet normal -12.314437 -18.221191 2.093779
+  outer loop
+    vertex 0.147992 6.570023 5.745693
+    vertex 9.121677 0.746504 7.844497
+    vertex 2.822309 5.067835 8.401688
+  endloop
+endfacet
+facet normal -3.435235 -6.968029 15.203695
+  outer loop
+    vertex 9.121677 0.746504 7.844497
+    vertex 8.098488 3.861933 9.041147
+    vertex 2.822309 5.067835 8.401688
+  endloop
+endfacet
+facet normal -1.473163 6.902630 25.172150
+  outer loop
+    vertex 8.098488 3.861933 9.041147
+    vertex 3.746889 9.627422 7.205482
+    vertex 2.822309 5.067835 8.401688
+  endloop
+endfacet
+facet normal -0.742391 3.101427 11.247917
+  outer loop
+    vertex 3.746889 9.627422 7.205482
+    vertex 0.962839 8.063251 7.453022
+    vertex 2.822309 5.067835 8.401688
+  endloop
+endfacet
+facet normal -6.530734 -2.401707 5.217421
+  outer loop
+    vertex 0.962839 8.063251 7.453022
+    vertex 0.147992 6.570023 5.745693
+    vertex 2.822309 5.067835 8.401688
+  endloop
+endfacet
+facet normal 15.543570 11.158127 1.748387
+  outer loop
+    vertex 7.391033 9.477915 0.643477
+    vertex 6.573400 9.603375 7.111747
+    vertex 8.458334 7.175794 5.846953
+  endloop
+endfacet
+facet normal 7.295371 3.459160 4.233026
+  outer loop
+    vertex 6.573400 9.603375 7.111747
+    vertex 9.292840 3.855330 7.122160
+    vertex 8.458334 7.175794 5.846953
+  endloop
+endfacet
+facet normal 18.508326 5.363805 1.854611
+  outer loop
+    vertex 9.292840 3.855330 7.122160
+    vertex 9.728598 4.343874 1.360519
+    vertex 8.458334 7.175794 5.846953
+  endloop
+endfacet
+facet normal -0.065903 -0.622562 -3.740417
+  outer loop
+    vertex 4.275799 6.293466 0.380652
+    vertex 0.994363 8.336601 0.098405
+    vertex 5.162033 6.881539 0.267158
+  endloop
+endfacet
+facet normal 0.630000 0.369430 -12.373644
+  outer loop
+    vertex 0.994363 8.336601 0.098405
+    vertex 5.914464 9.587802 0.386266
+    vertex 5.162033 6.881539 0.267158
+  endloop
+endfacet
+facet normal 0.709167 -0.017661 -4.078667
+  outer loop
+    vertex 5.914464 9.587802 0.386266
+    vertex 7.391033 9.477915 0.643477
+    vertex 5.162033 6.881539 0.267158
+  endloop
+endfacet
+facet normal 3.793747 -0.718619 -17.512976
+  outer loop
+    vertex 7.391033 9.477915 0.643477
+    vertex 9.728598 4.343874 1.360519
+    vertex 5.162033 6.881539 0.267158
+  endloop
+endfacet
+facet normal 0.354965 -1.487253 -4.934436
+  outer loop
+    vertex 9.728598 4.343874 1.360519
+    vertex 4.275799 6.293466 0.380652
+    vertex 5.162033 6.881539 0.267158
+  endloop
+endfacet
+facet normal 4.078196 1.798760 -0.415788
+  outer loop
+    vertex 9.728598 4.343874 1.360519
+    vertex 7.391033 9.477915 0.643477
+    vertex 8.839240 6.475061 1.857213
+  endloop
+endfacet
+facet normal 12.831113 6.240289 0.128999
+  outer loop
+    vertex 7.391033 9.477915 0.643477
+    vertex 8.458334 7.175794 5.846953
+    vertex 8.839240 6.475061 1.857213
+  endloop
+endfacet
+facet normal 8.154831 3.359112 0.188580
+  outer loop
+    vertex 8.458334 7.175794 5.846953
+    vertex 9.728598 4.343874 1.360519
+    vertex 8.839240 6.475061 1.857213
+  endloop
+endfacet
+endsolid convex_hull_polyhedron_2025-05-25_23-00-36.stl

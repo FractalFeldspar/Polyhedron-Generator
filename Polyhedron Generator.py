@@ -3,6 +3,9 @@ import random
 import itertools
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d.art3d import Poly3DCollection
+from stl import mesh
+from stl import Mode  # for specifying ASCII
+from datetime import datetime
 
 class Face:
     face_id = 0
@@ -185,6 +188,7 @@ while face_object_keys:
         # Make sure seen_face_boundary edges are arranged in continuous order
         seen_face_boundary_copy = seen_face_boundary
         seen_face_boundary = [seen_face_boundary_copy[0]]
+        seen_face_boundary_copy.pop(0)
         # while seen_face_boundary_copy:
         #     current_point = seen_face_boundary[-1][1]
         #     for edge in seen_face_boundary_copy:
@@ -265,7 +269,7 @@ while face_object_keys:
             face_object_keys.append(new_face.face_id)
 
 print("face objects: ", [[face_object.face_id, face_object.vertices, face_object.neighbors, face_object.visible_points] for key, face_object in face_objects.items()])
-
+print("face object keys: ", list(face_objects.keys()))
 
 
 
@@ -313,6 +317,26 @@ plt.show()
 
 
 
+
+# Export polyhedron as STL file
+triangles = []
+
+for face in face_objects.values():
+    a, b, c = face.vertices
+    triangle = [points[a], points[b], points[c]]
+    triangles.append(triangle)
+
+scale_factor = 0.1
+triangles_np = scale_factor * np.array(triangles)
+
+hull_mesh = mesh.Mesh(np.zeros(triangles_np.shape[0], dtype=mesh.Mesh.dtype))
+for i, f in enumerate(triangles_np):
+    hull_mesh.vectors[i] = f
+
+timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+filename = f"convex_hull_polyhedron_{timestamp}.stl"
+hull_mesh.save(filename, mode=Mode.ASCII)
+print("STL file", filename, "saved")
 
 
 
