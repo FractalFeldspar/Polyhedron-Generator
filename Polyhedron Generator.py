@@ -340,6 +340,8 @@ print("STL file", filename, "saved")
 
 
 
+# I'm adding a comment here to test out Git commit from VS Code
+
 # import numpy as np
 # from scipy.spatial import ConvexHull
 # import matplotlib.pyplot as plt
